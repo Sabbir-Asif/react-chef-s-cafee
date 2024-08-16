@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "image": "https://www.thespruceeats.com/thmb/ovIQQQxQajADuIE2lqhgqq7ppyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pasta-carbonara-recipe-5210168-hero-01-80090e56abc04ca19d88ebf7fad1d157.jpg",
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Parmesan Cheese",
+            "Pancetta",
+            "Black Pepper"
+        ],
+        "preparing_time": 20,
+        "calories": 400
+    },
+    {
+        "id": 2,
+        "name": "Chicken Curry",
+        "description": "A flavorful and spicy curry with tender chicken pieces.",
+        "image": "https://www.pinoyrecipe.net/wp-content/uploads/2012/06/Filipino-Style-Chicken-Curry-Recipe.jpg",
+        "ingredients": [
+            "Chicken",
+            "Curry Powder",
+            "Coconut Milk",
+            "Onion",
+            "Garlic",
+            "Ginger"
+        ],
+        "preparing_time": 40,
+        "calories": 500
+    },
+    {
+        "id": 3,
+        "name": "Caesar Salad",
+        "description": "A fresh and crispy salad with romaine lettuce, croutons, and Caesar dressing.",
+        "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/easy_caesar_salad_64317_16x9.jpg",
+        "ingredients": [
+            "Romaine Lettuce",
+            "Croutons",
+            "Parmesan Cheese",
+            "Caesar Dressing",
+            "Chicken"
+        ],
+        "preparing_time": 15,
+        "calories": 300
+    },
+    {
+        "id": 4,
+        "name": "Beef Tacos",
+        "description": "Delicious tacos filled with seasoned beef, cheese, and fresh toppings.",
+        "image": "https://onepotrecipes.com/wp-content/uploads/2020/01/Beef-Tacos.jpg",
+        "ingredients": [
+            "Ground Beef",
+            "Taco Seasoning",
+            "Tortillas",
+            "Cheese",
+            "Lettuce",
+            "Tomato"
+        ],
+        "preparing_time": 30,
+        "calories": 450
+    },
+    {
+        "id": 5,
+        "name": "Margherita Pizza",
+        "description": "A simple yet delicious pizza topped with fresh mozzarella, tomatoes, and basil.",
+        "image": "https://www.foodandwine.com/thmb/7BpSJWDh1s-2M2ooRPHoy07apq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mozzarella-pizza-margherita-FT-RECIPE0621-11fa41ceb1a5465d9036a23da87dd3d4.jpg",
+        "ingredients": [
+            "Pizza Dough",
+            "Tomato Sauce",
+            "Mozzarella Cheese",
+            "Fresh Basil",
+            "Olive Oil"
+        ],
+        "preparing_time": 25,
+        "calories": 600
+    },
+    {
+        "id": 6,
+        "name": "Pancakes",
+        "description": "Fluffy and light pancakes served with syrup and butter.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcGOfa4R2Qy7ezxDwc1geT29WF_0DvY8lVQ&s",
+        "ingredients": [
+            "Flour",
+            "Eggs",
+            "Milk",
+            "Butter",
+            "Baking Powder",
+            "Syrup"
+        ],
+        "preparing_time": 15,
+        "calories": 350
+    }
+]
