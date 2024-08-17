@@ -1,7 +1,7 @@
 import { FaRegClock } from "react-icons/fa6";
 import { AiOutlineFire } from "react-icons/ai";
 
-const Recipee = ({ recipee }) => {
+const Recipee = ({ recipee, handleWantToCook }) => {
     const { name, description, image, ingredients, preparing_time, calories } = recipee;
     return (
         <div className="card bg-gray-50 rounded-lg shadow-sm p-6">
@@ -33,7 +33,7 @@ const Recipee = ({ recipee }) => {
                     </div>
                 </div>
                 <div className="card-actions justify-start mt-6">
-                    <button className="btn bg-green-400 text-lg font-medium rounded-full">Want to Cook</button>
+                    <button className="btn bg-green-400 text-lg font-medium rounded-full" onClick={() => handleWantToCook(recipee)}>Want to Cook</button>
                 </div>
             </div>
         </div>
